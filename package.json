@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliceribeiro/basic-javascript.git"
+    "url": "git+https://github.com/aliceribeiro/js_orientacao-a-objetos.git"
   },
   "author": "Alice Ribeiro",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/aliceribeiro/basic-javascript/issues"
+    "url": "https://github.com/aliceribeiro/js_orientacao-a-objetos/issues"
   },
-  "homepage": "https://github.com/aliceribeiro/basic-javascript#readme"
+  "homepage": "https://github.com/aliceribeiro/js_orientacao-a-objetos#readme"
 }
